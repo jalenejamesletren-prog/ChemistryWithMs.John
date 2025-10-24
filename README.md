@@ -1,4 +1,3 @@
-# ChemistryWithMs.John
 [MsJohnWebsite.html](https://github.com/user-attachments/files/23135794/MsJohnWebsite.html)
 <!DOCTYPE html>
 <html lang="en">
